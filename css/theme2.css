@@ -1,0 +1,6 @@
+li.product:hover .bulk-savings-table {
+    display:inherit;
+}
+.bulk-savings-table {
+    display:none;
+}
